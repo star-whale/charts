@@ -2,8 +2,8 @@ apiVersion: v1
 entries:
   starwhale:
   - apiVersion: v2
-    appVersion: 0.1.2-alpha.7
-    created: "2022-05-18T06:41:36.207153446Z"
+    appVersion: 0.1.2-alpha.9
+    created: "2022-05-18T10:26:38.548991648Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -17,9 +17,9 @@ entries:
       repository: https://charts.bitnami.com/bitnami
       version: 11.x.x
     description: StarWhale Platform Helm Charts
-    digest: 18c7ad383b17dd28267382b878fe61aa29ba97ada897315fc465f333e2e25fef
+    digest: 9cca564370a45c2963b574ec09a0bf72089215afac0551c0869167bb3fbd3bf5
     home: https://starwhale.ai
-    icon: file://./logo.png
+    icon: https://raw.githubusercontent.com/star-whale/starwhale/main/docs/static/img/starwhale.png
     keywords:
     - mlops
     maintainers:
@@ -29,66 +29,6 @@ entries:
     name: starwhale
     type: application
     urls:
-    - starwhale-0.1.2-alpha.7.tgz
-    version: 0.1.2-alpha.7
-  - apiVersion: v2
-    appVersion: 0.1.2-alpha.6
-    created: "2022-05-18T06:41:36.19792312Z"
-    dependencies:
-    - name: common
-      repository: https://charts.bitnami.com/bitnami
-      version: 1.x.x
-    - condition: mysql.enabled
-      name: mysql
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.x.x
-    - condition: minio.enabled
-      name: minio
-      repository: https://charts.bitnami.com/bitnami
-      version: 11.x.x
-    description: StarWhale Platform Helm Charts
-    digest: 8c6306076ea4c3a31b64a09bc3a65c684034da004fc04f478c611e024402ee81
-    home: https://starwhale.ai
-    icon: file://./logo.png
-    keywords:
-    - mlops
-    maintainers:
-    - email: developer@starwhale.ai
-      name: Starwhale Team
-      url: https://starwhale.ai/team
-    name: starwhale
-    type: application
-    urls:
-    - starwhale-0.1.2-alpha.6.tgz
-    version: 0.1.2-alpha.6
-  - apiVersion: v2
-    appVersion: 0.1.1-alpha.10
-    created: "2022-05-18T06:41:36.18770038Z"
-    dependencies:
-    - name: common
-      repository: https://charts.bitnami.com/bitnami
-      version: 1.x.x
-    - condition: mysql.enabled
-      name: mysql
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.x.x
-    - condition: minio.enabled
-      name: minio
-      repository: https://charts.bitnami.com/bitnami
-      version: 11.x.x
-    description: StarWhale Platform Helm Charts
-    digest: 548e6674459f865d4cacc35e89b6fac935003fe691e9d3812743f6f39fed19a8
-    home: https://starwhale.ai
-    icon: file://./logo.png
-    keywords:
-    - mlops
-    maintainers:
-    - email: developer@starwhale.ai
-      name: Starwhale Team
-      url: https://starwhale.ai/team
-    name: starwhale
-    type: application
-    urls:
-    - starwhale-0.1.1-alpha.10.tgz
-    version: 0.1.1-alpha.10
-generated: "2022-05-18T06:41:36.175513913Z"
+    - starwhale-0.1.2-alpha.9.tgz
+    version: 0.1.2-alpha.9
+generated: "2022-05-18T10:26:38.53784439Z"
