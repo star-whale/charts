@@ -3,7 +3,7 @@ entries:
   starwhale:
   - apiVersion: v2
     appVersion: 0.1.1-alpha.10
-    created: "2022-05-18T11:59:10.7652625+08:00"
+    created: "2022-05-18T12:00:21.9844187+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -33,7 +33,7 @@ entries:
     version: 0.1.1-alpha.10
   - apiVersion: v2
     appVersion: 0.1.0-dummy.1
-    created: "2022-05-18T11:59:10.7572065+08:00"
+    created: "2022-05-18T12:00:21.9761881+08:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -61,4 +61,4 @@ entries:
     urls:
     - starwhale-0.1.0-dummy.1.tgz
     version: 0.1.0-dummy.1
-generated: "2022-05-18T11:59:10.7496774+08:00"
+generated: "2022-05-18T12:00:21.9684319+08:00"
