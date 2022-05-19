@@ -2,8 +2,38 @@ apiVersion: v1
 entries:
   starwhale:
   - apiVersion: v2
+    appVersion: 0.1.2-beta.3
+    created: "2022-05-19T08:33:35.740065837Z"
+    dependencies:
+    - name: common
+      repository: https://charts.bitnami.com/bitnami
+      version: 1.x.x
+    - condition: mysql.enabled
+      name: mysql
+      repository: https://charts.bitnami.com/bitnami
+      version: 8.x.x
+    - condition: minio.enabled
+      name: minio
+      repository: https://charts.bitnami.com/bitnami
+      version: 11.x.x
+    description: StarWhale Platform Helm Charts
+    digest: 090baff37e0423d9f86a491c683b377d742f96b0830eabdc9cc3d182c533c8c1
+    home: https://starwhale.ai
+    icon: https://raw.githubusercontent.com/star-whale/starwhale/main/docs/static/img/logo_72x72px.png
+    keywords:
+    - mlops
+    maintainers:
+    - email: developer@starwhale.ai
+      name: Starwhale Team
+      url: https://starwhale.ai/team
+    name: starwhale
+    type: application
+    urls:
+    - starwhale-0.1.2-beta.3.tgz
+    version: 0.1.2-beta.3
+  - apiVersion: v2
     appVersion: 0.1.2-beta.2
-    created: "2022-05-19T02:16:15.797610564Z"
+    created: "2022-05-19T08:33:35.729989168Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -33,7 +63,7 @@ entries:
     version: 0.1.2-beta.2
   - apiVersion: v2
     appVersion: 0.1.2-beta.1
-    created: "2022-05-19T02:16:15.787599656Z"
+    created: "2022-05-19T08:33:35.713480327Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -63,7 +93,7 @@ entries:
     version: 0.1.2-beta.1
   - apiVersion: v2
     appVersion: 0.1.2-alpha.10
-    created: "2022-05-19T02:16:15.766217039Z"
+    created: "2022-05-19T08:33:35.686318301Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -93,7 +123,7 @@ entries:
     version: 0.1.2-alpha.10
   - apiVersion: v2
     appVersion: 0.1.2-alpha.9
-    created: "2022-05-19T02:16:15.777189348Z"
+    created: "2022-05-19T08:33:35.697567002Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -121,4 +151,4 @@ entries:
     urls:
     - starwhale-0.1.2-alpha.9.tgz
     version: 0.1.2-alpha.9
-generated: "2022-05-19T02:16:15.75485353Z"
+generated: "2022-05-19T08:33:35.674840695Z"
