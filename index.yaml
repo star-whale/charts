@@ -3,7 +3,7 @@ entries:
   starwhale:
   - apiVersion: v2
     appVersion: 0.2.3-rc2
-    created: "2022-08-08T10:56:29.338030727Z"
+    created: "2022-08-08T11:24:11.319401833Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -37,7 +37,7 @@ entries:
     version: 0.2.3-rc2
   - apiVersion: v2
     appVersion: 0.2.3-rc1
-    created: "2022-08-08T10:56:29.327274003Z"
+    created: "2022-08-08T11:24:11.308937426Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -71,7 +71,7 @@ entries:
     version: 0.2.3-rc1
   - apiVersion: v2
     appVersion: 0.2.3-rc0
-    created: "2022-08-08T10:56:29.316935984Z"
+    created: "2022-08-08T11:24:11.298796123Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -105,7 +105,7 @@ entries:
     version: 0.2.3-rc0
   - apiVersion: v2
     appVersion: 0.2.2
-    created: "2022-08-08T10:56:29.306635565Z"
+    created: "2022-08-08T11:24:11.289245225Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -123,7 +123,7 @@ entries:
       repository: https://sonatype.github.io/helm3-charts/
       version: 39.x.x
     description: StarWhale Platform Helm Charts
-    digest: f48d5c43874195ef5d51f48ec0fa3a9adda7489f878a3289b9ecee42e183615d
+    digest: f3d722e717fb6b75b24b3f53fe58f41c8a16b94b69c7eac2939603e0738d2d3d
     home: https://starwhale.ai
     icon: https://github.com/star-whale/starwhale/raw/main/docs/static/img/logo_72x72px.png
     keywords:
@@ -139,7 +139,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 0.2.2-rc1
-    created: "2022-08-08T10:56:29.296980554Z"
+    created: "2022-08-08T11:24:11.279249323Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -173,7 +173,7 @@ entries:
     version: 0.2.2-rc1
   - apiVersion: v2
     appVersion: 0.2.2-rc.3
-    created: "2022-08-08T10:56:29.286036628Z"
+    created: "2022-08-08T11:24:11.268946818Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -207,7 +207,7 @@ entries:
     version: 0.2.2-rc.3
   - apiVersion: v2
     appVersion: 0.2.2-rc.2
-    created: "2022-08-08T10:56:29.275337405Z"
+    created: "2022-08-08T11:24:11.258866015Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -241,7 +241,7 @@ entries:
     version: 0.2.2-rc.2
   - apiVersion: v2
     appVersion: 0.2.1
-    created: "2022-08-08T10:56:29.264936585Z"
+    created: "2022-08-08T11:24:11.24957522Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -275,7 +275,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2022-08-08T10:56:29.255263373Z"
+    created: "2022-08-08T11:24:11.239087812Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -309,7 +309,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.2.0-rc.1
-    created: "2022-08-08T10:56:29.244608251Z"
+    created: "2022-08-08T11:24:11.228765307Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -343,7 +343,7 @@ entries:
     version: 0.2.0-rc.1
   - apiVersion: v2
     appVersion: 0.2.0-rc.0
-    created: "2022-08-08T10:56:29.234394133Z"
+    created: "2022-08-08T11:24:11.218482202Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -377,7 +377,7 @@ entries:
     version: 0.2.0-rc.0
   - apiVersion: v2
     appVersion: 0.2.0-beta.22
-    created: "2022-08-08T10:56:29.160227379Z"
+    created: "2022-08-08T11:24:11.147097573Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -411,7 +411,7 @@ entries:
     version: 0.2.0-beta.22
   - apiVersion: v2
     appVersion: 0.2.0-beta.21
-    created: "2022-08-08T10:56:29.150475267Z"
+    created: "2022-08-08T11:24:11.13702877Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -445,7 +445,7 @@ entries:
     version: 0.2.0-beta.21
   - apiVersion: v2
     appVersion: 0.2.0-beta.20
-    created: "2022-08-08T10:56:29.139593941Z"
+    created: "2022-08-08T11:24:11.127143569Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -479,7 +479,7 @@ entries:
     version: 0.2.0-beta.20
   - apiVersion: v2
     appVersion: 0.2.0-beta.19
-    created: "2022-08-08T10:56:29.119905715Z"
+    created: "2022-08-08T11:24:11.10867768Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -513,7 +513,7 @@ entries:
     version: 0.2.0-beta.19
   - apiVersion: v2
     appVersion: 0.2.0-beta.18
-    created: "2022-08-08T10:56:29.109570496Z"
+    created: "2022-08-08T11:24:11.098333774Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -547,7 +547,7 @@ entries:
     version: 0.2.0-beta.18
   - apiVersion: v2
     appVersion: 0.2.0-beta.17
-    created: "2022-08-08T10:56:29.099868184Z"
+    created: "2022-08-08T11:24:11.088599175Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -581,7 +581,7 @@ entries:
     version: 0.2.0-beta.17
   - apiVersion: v2
     appVersion: 0.2.0-beta.16
-    created: "2022-08-08T10:56:29.088802556Z"
+    created: "2022-08-08T11:24:11.078721874Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -615,7 +615,7 @@ entries:
     version: 0.2.0-beta.16
   - apiVersion: v2
     appVersion: 0.2.0-beta.15
-    created: "2022-08-08T10:56:29.078410537Z"
+    created: "2022-08-08T11:24:11.068011365Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -649,7 +649,7 @@ entries:
     version: 0.2.0-beta.15
   - apiVersion: v2
     appVersion: 0.2.0-beta.14
-    created: "2022-08-08T10:56:29.068070018Z"
+    created: "2022-08-08T11:24:11.057852361Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -683,7 +683,7 @@ entries:
     version: 0.2.0-beta.14
   - apiVersion: v2
     appVersion: 0.2.0-beta.13
-    created: "2022-08-08T10:56:29.058340706Z"
+    created: "2022-08-08T11:24:11.047829458Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -717,7 +717,7 @@ entries:
     version: 0.2.0-beta.13
   - apiVersion: v2
     appVersion: 0.2.0-beta.12
-    created: "2022-08-08T10:56:29.047545781Z"
+    created: "2022-08-08T11:24:11.038534463Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -751,7 +751,7 @@ entries:
     version: 0.2.0-beta.12
   - apiVersion: v2
     appVersion: 0.2.0-beta.11
-    created: "2022-08-08T10:56:29.03698846Z"
+    created: "2022-08-08T11:24:11.028264759Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -785,7 +785,7 @@ entries:
     version: 0.2.0-beta.11
   - apiVersion: v2
     appVersion: 0.2.0-beta.10
-    created: "2022-08-08T10:56:29.027115946Z"
+    created: "2022-08-08T11:24:11.018444658Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -819,7 +819,7 @@ entries:
     version: 0.2.0-beta.10
   - apiVersion: v2
     appVersion: 0.2.0-beta.9
-    created: "2022-08-08T10:56:29.223981413Z"
+    created: "2022-08-08T11:24:11.209190807Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -853,7 +853,7 @@ entries:
     version: 0.2.0-beta.9
   - apiVersion: v2
     appVersion: 0.2.0-beta.8
-    created: "2022-08-08T10:56:29.213946398Z"
+    created: "2022-08-08T11:24:11.1987072Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -883,7 +883,7 @@ entries:
     version: 0.2.0-beta.8
   - apiVersion: v2
     appVersion: 0.2.0-beta.7
-    created: "2022-08-08T10:56:29.205562501Z"
+    created: "2022-08-08T11:24:11.18987681Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -913,7 +913,7 @@ entries:
     version: 0.2.0-beta.7
   - apiVersion: v2
     appVersion: 0.2.0-beta.6
-    created: "2022-08-08T10:56:29.196333795Z"
+    created: "2022-08-08T11:24:11.181028519Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -943,7 +943,7 @@ entries:
     version: 0.2.0-beta.6
   - apiVersion: v2
     appVersion: 0.2.0-beta.5
-    created: "2022-08-08T10:56:29.18720679Z"
+    created: "2022-08-08T11:24:11.173038838Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -973,7 +973,7 @@ entries:
     version: 0.2.0-beta.5
   - apiVersion: v2
     appVersion: 0.2.0-beta.4
-    created: "2022-08-08T10:56:29.178691892Z"
+    created: "2022-08-08T11:24:11.163983245Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1003,7 +1003,7 @@ entries:
     version: 0.2.0-beta.4
   - apiVersion: v2
     appVersion: 0.2.0-beta.3
-    created: "2022-08-08T10:56:29.169459885Z"
+    created: "2022-08-08T11:24:11.155380257Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1033,7 +1033,7 @@ entries:
     version: 0.2.0-beta.3
   - apiVersion: v2
     appVersion: 0.2.0-beta.2
-    created: "2022-08-08T10:56:29.12905102Z"
+    created: "2022-08-08T11:24:11.117794473Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1063,7 +1063,7 @@ entries:
     version: 0.2.0-beta.2
   - apiVersion: v2
     appVersion: 0.2.0-beta.1
-    created: "2022-08-08T10:56:29.016773527Z"
+    created: "2022-08-08T11:24:11.008149153Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1093,7 +1093,7 @@ entries:
     version: 0.2.0-beta.1
   - apiVersion: v2
     appVersion: 0.2.0-alpha.13
-    created: "2022-08-08T10:56:28.94413969Z"
+    created: "2022-08-08T11:24:10.934772803Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1123,7 +1123,7 @@ entries:
     version: 0.2.0-alpha.13
   - apiVersion: v2
     appVersion: 0.2.0-alpha.12
-    created: "2022-08-08T10:56:28.935117287Z"
+    created: "2022-08-08T11:24:10.925507409Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1153,7 +1153,7 @@ entries:
     version: 0.2.0-alpha.12
   - apiVersion: v2
     appVersion: 0.2.0-alpha.11
-    created: "2022-08-08T10:56:28.926268085Z"
+    created: "2022-08-08T11:24:10.916764319Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1183,7 +1183,7 @@ entries:
     version: 0.2.0-alpha.11
   - apiVersion: v2
     appVersion: 0.2.0-alpha.10
-    created: "2022-08-08T10:56:28.91714488Z"
+    created: "2022-08-08T11:24:10.908660837Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1213,7 +1213,7 @@ entries:
     version: 0.2.0-alpha.10
   - apiVersion: v2
     appVersion: 0.2.0-alpha.9
-    created: "2022-08-08T10:56:29.007140116Z"
+    created: "2022-08-08T11:24:11.000109571Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1243,7 +1243,7 @@ entries:
     version: 0.2.0-alpha.9
   - apiVersion: v2
     appVersion: 0.2.0-alpha.8
-    created: "2022-08-08T10:56:28.997980311Z"
+    created: "2022-08-08T11:24:10.990962577Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1273,7 +1273,7 @@ entries:
     version: 0.2.0-alpha.8
   - apiVersion: v2
     appVersion: 0.2.0-alpha.7
-    created: "2022-08-08T10:56:28.989544713Z"
+    created: "2022-08-08T11:24:10.978713452Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1303,7 +1303,7 @@ entries:
     version: 0.2.0-alpha.7
   - apiVersion: v2
     appVersion: 0.2.0-alpha.6
-    created: "2022-08-08T10:56:28.980003703Z"
+    created: "2022-08-08T11:24:10.969199955Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1333,7 +1333,7 @@ entries:
     version: 0.2.0-alpha.6
   - apiVersion: v2
     appVersion: 0.2.0-alpha.5
-    created: "2022-08-08T10:56:28.9709868Z"
+    created: "2022-08-08T11:24:10.961065272Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1363,7 +1363,7 @@ entries:
     version: 0.2.0-alpha.5
   - apiVersion: v2
     appVersion: 0.2.0-alpha.4
-    created: "2022-08-08T10:56:28.962613803Z"
+    created: "2022-08-08T11:24:10.951672976Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1393,7 +1393,7 @@ entries:
     version: 0.2.0-alpha.4
   - apiVersion: v2
     appVersion: 0.2.0-alpha.2
-    created: "2022-08-08T10:56:28.953277996Z"
+    created: "2022-08-08T11:24:10.943198689Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1423,7 +1423,7 @@ entries:
     version: 0.2.0-alpha.2
   - apiVersion: v2
     appVersion: 0.2.0-alpha.1
-    created: "2022-08-08T10:56:28.908072875Z"
+    created: "2022-08-08T11:24:10.899670445Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1453,7 +1453,7 @@ entries:
     version: 0.2.0-alpha.1
   - apiVersion: v2
     appVersion: 0.1.2-beta.10
-    created: "2022-08-08T10:56:28.827913352Z"
+    created: "2022-08-08T11:24:10.82192445Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1483,7 +1483,7 @@ entries:
     version: 0.1.2-beta.10
   - apiVersion: v2
     appVersion: 0.1.2-beta.9
-    created: "2022-08-08T10:56:28.899672778Z"
+    created: "2022-08-08T11:24:10.890212448Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1513,7 +1513,7 @@ entries:
     version: 0.1.2-beta.9
   - apiVersion: v2
     appVersion: 0.1.2-beta.8
-    created: "2022-08-08T10:56:28.890314171Z"
+    created: "2022-08-08T11:24:10.882187866Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1543,7 +1543,7 @@ entries:
     version: 0.1.2-beta.8
   - apiVersion: v2
     appVersion: 0.1.2-beta.7
-    created: "2022-08-08T10:56:28.881364768Z"
+    created: "2022-08-08T11:24:10.873123674Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1573,7 +1573,7 @@ entries:
     version: 0.1.2-beta.7
   - apiVersion: v2
     appVersion: 0.1.2-beta.6
-    created: "2022-08-08T10:56:28.872850069Z"
+    created: "2022-08-08T11:24:10.864344184Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1603,7 +1603,7 @@ entries:
     version: 0.1.2-beta.6
   - apiVersion: v2
     appVersion: 0.1.2-beta.5
-    created: "2022-08-08T10:56:28.863666564Z"
+    created: "2022-08-08T11:24:10.856447503Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1633,7 +1633,7 @@ entries:
     version: 0.1.2-beta.5
   - apiVersion: v2
     appVersion: 0.1.2-beta.4
-    created: "2022-08-08T10:56:28.854784561Z"
+    created: "2022-08-08T11:24:10.847674013Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1663,7 +1663,7 @@ entries:
     version: 0.1.2-beta.4
   - apiVersion: v2
     appVersion: 0.1.2-beta.3
-    created: "2022-08-08T10:56:28.846384965Z"
+    created: "2022-08-08T11:24:10.839561031Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1693,7 +1693,7 @@ entries:
     version: 0.1.2-beta.3
   - apiVersion: v2
     appVersion: 0.1.2-beta.2
-    created: "2022-08-08T10:56:28.836968756Z"
+    created: "2022-08-08T11:24:10.830609139Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1723,7 +1723,7 @@ entries:
     version: 0.1.2-beta.2
   - apiVersion: v2
     appVersion: 0.1.2-beta.1
-    created: "2022-08-08T10:56:28.819511955Z"
+    created: "2022-08-08T11:24:10.813704566Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1753,7 +1753,7 @@ entries:
     version: 0.1.2-beta.1
   - apiVersion: v2
     appVersion: 0.1.2-alpha.10
-    created: "2022-08-08T10:56:28.801088643Z"
+    created: "2022-08-08T11:24:10.794350169Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1783,7 +1783,7 @@ entries:
     version: 0.1.2-alpha.10
   - apiVersion: v2
     appVersion: 0.1.2-alpha.9
-    created: "2022-08-08T10:56:28.809863544Z"
+    created: "2022-08-08T11:24:10.803931267Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -1811,4 +1811,4 @@ entries:
     urls:
     - starwhale-0.1.2-alpha.9.tgz
     version: 0.1.2-alpha.9
-generated: "2022-08-08T10:56:28.791376431Z"
+generated: "2022-08-08T11:24:10.785229776Z"
